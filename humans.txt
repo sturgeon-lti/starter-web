@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+Serge Jr Turgeon
 
 # THANKS
 
