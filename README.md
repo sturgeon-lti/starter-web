@@ -16,3 +16,6 @@ Sample website with plenty of files for demos
 
 ## Modified
 New section
+
+## COPYIRGHT
+NOTICE
