@@ -7,7 +7,7 @@
 Serge Jr Turgeon
 
 # THANKS
-
+	Thanks to my team
     <name>
 
 # TECHNOLOGY COLOPHON
