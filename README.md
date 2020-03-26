@@ -15,7 +15,7 @@ Training purpose
 Sample website with plenty of files for demos
 
 ## Modified
-New section
+New section is better
 
 ## COPYIRGHT
 NOTICE
