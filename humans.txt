@@ -5,6 +5,7 @@
 
     <name> -- <role> -- <twitter>
 Serge Jr Turgeon
+REmi Groleau
 
 # THANKS
 	Thanks to my team
