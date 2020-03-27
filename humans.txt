@@ -12,6 +12,6 @@ REmi Groleau
     <name>
 
 # TECHNOLOGY COLOPHON
-
+	MAGIC
     HTML5, CSS3
     jQuery, Modernizr
