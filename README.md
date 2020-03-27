@@ -19,4 +19,4 @@ Sample website with plenty of files for demos
 New section is better
 
 ## COPYIRGHT
-NOTICE
+NOTICE all right reserved
